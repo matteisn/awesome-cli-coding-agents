@@ -373,7 +373,7 @@ Proprietary agents — usable but not forkable or extensible at the source level
 
 - **[Muse Code](https://dev.meta.ai/docs/muse-code)** `[Meta]` — Meta's coding agent for the terminal and CI, built for Muse Spark; plans, edits files, and runs commands with approvals and an OS sandbox, interactively with `muse` or headless with `muse exec`.
 
-- **[Zerg Client](https://zergai.com/ztc)** `[Zerg AI]` — Terminal and desktop AI coding agent (evaluation beta, installed as `ztc`) that plans a change, edits code, and runs tests in your project; log in with ZergAI or use your own API keys. Free to evaluate under the Zerg Source Available License; commercial use requires a license.
+- **[Zerg Client](https://zergai.com/ztc)** `[Zerg AI]` — Terminal and desktop AI coding agent (evaluation beta, installed as `ztc`) that plans a change, edits code, and runs tests in your project; log in with ZergAI or use your local API keys. Free to evaluate; commercial use requires a license.
 
 ---
 
